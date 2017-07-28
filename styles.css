@@ -97,38 +97,38 @@ footer{
 }
 
 #art1{
-  background-image: url("../images/optimized/product-1.jpg");
+  background-image: url("./optimized/product-1.jpg");
   flex-basis: 60%;
 }
 
 #art2{
-  background-image: url("../images/optimized/product-2.jpg");
+  background-image: url("./optimized/product-2.jpg");
   flex-basis: 18%;
 }
 
 #art3{
-  background-image: url("../images/optimized/product-3.jpg");
+  background-image: url("./optimized/product-3.jpg");
   flex-basis: 18%;
 
 }
 
 #art4{
-  background-image: url("/../images/optimized/product-4.jpg");
+  background-image: url("./optimized/product-4.jpg");
   flex-basis: 18%;
 }
 
 #art5{
-  background-image: url("../images/optimized/product-5.jpg");
+  background-image: url("./optimized/product-5.jpg");
   flex-basis: 18%;
 }
 
 #art6{
-  background-image: url("../images/optimized/product-6.jpg");
+  background-image: url("./optimized/product-6.jpg");
   flex-basis: 40%;
 }
 
 #art7{
-  background-image: url("../images/optimized/product-7.jpg");
+  background-image: url("./optimized/product-7.jpg");
   flex-basis: 18%;
 }
 
@@ -168,7 +168,7 @@ blockquote{
 }
 
 .banner{
-  background-image: url("../images/optimized/background-3.jpg");
+  background-image: url("./optimized/background-3.jpg");
   background-size:cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -207,7 +207,7 @@ td{
 }
 
 .nlbody{
-  background-image: url("../images/optimized/background-2.jpg");
+  background-image: url("./optimized/background-2.jpg");
   background-size: 100%;
   display: flex;
   align-items: center;
